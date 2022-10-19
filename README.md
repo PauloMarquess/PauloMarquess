@@ -2,7 +2,7 @@
 
 
 
-- Software Developer at Globo | React
+- Software Developer at Globo | React | Angular
 - 📫 Contate-me no e-mail paulinho_marques2012@hotmail.com
  <div>
   <a href="https://github.com/PauloMarquess">
